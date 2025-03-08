@@ -1,0 +1,6 @@
+"bcryptjs": "manage the encryption and decryption of the password",
+"dotenv": "to manage the environment variables depending on the environment",
+"express": "its a framework which will help us to perform the rest calls and it would be our rest server",
+"express-validator": "is used to manage the validation for the input data (post, put)",
+"jsonwebtoken": "jwt token is used to authenticate the user/ authorization",
+"mongoose": "is used to connect with DB and creating the db tables/ schema for mongodb",
